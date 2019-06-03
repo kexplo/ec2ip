@@ -12,8 +12,8 @@ def requirements(filename):
 setup(name='ec2ip',
       version='0.1.0',
       description='ec2ip',
-      author='',
-      author_email='',
+      author='Chanwoong Kim',
+      author_email='me@chanwoong.kim',
       url='',
       packages=find_packages(),
       entry_points={
